@@ -62,6 +62,34 @@
 		"rate": 10,
 		"date_record": "2018-03-17",
 		"artist": "Mariana Joplin"
+	},
+	{
+		"id": 10,
+		"title": "Light My Fire",
+		"rate": 0,
+		"date_record": "2018-10-01",
+		"artist": "Gabriel Morrison"
+	},
+	{
+		"id": 11,
+		"title": "Mama, I'm Coming Home",
+		"rate": 10,
+		"date_record": "2018-10-08",
+		"artist": "Rodrigo Osbourne"
+	},
+	{
+		"id": 12,
+		"title": "Detroit Rock City",
+		"rate": 8,
+		"date_record": "2018-09-12",
+		"artist": "Gustavo Simmons"
+	},
+	{
+		"id": 13,
+		"title": "One",
+		"rate": 10,
+		"date_record": "2018-05-24",
+		"artist": "Leonardo Hetfield"
 	}]	
 }
 
