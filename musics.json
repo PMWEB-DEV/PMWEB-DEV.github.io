@@ -1,0 +1,67 @@
+{
+	"musics":[
+	{
+		"id": 1,
+		"title": "Riders on the Storm",
+		"rate": 0,
+		"date_record": "2018-10-01",
+		"artist": "Gabriel Morrison"
+	},
+	{
+		"id": 2,
+		"title": "Creatures of the Night",
+		"rate": 8,
+		"date_record": "2018-09-12",
+		"artist": "Gustavo Simmons"
+	},
+	{
+		"id": 3,
+		"title": "Bark ah the Moon",
+		"rate": 10,
+		"date_record": "2018-10-08",
+		"artist": "Rodrigo Osbourne"
+	},
+	{
+		"id": 4,
+		"title": "Sympathy for the Devil",
+		"rate": 7,
+		"date_record": "2018-08-08",
+		"artist": "Cesar Jagger"
+	},
+	{
+		"id": 5,
+		"title": "I Love Rock N'Roll",
+		"rate": 9,
+		"date_record": "2018-07-09",
+		"artist": "Caroline Jett"
+	},
+	{
+		"id": 6,
+		"title": "Creeping Death",
+		"rate": 10,
+		"date_record": "2018-05-24",
+		"artist": "Leonardo Hetfield"
+	},
+	{
+		"id": 7,
+		"title": "In My Darkest Hour",
+		"rate": 8,
+		"date_record": "2018-04-27",
+		"artist": "Arnaldo Mustaine"
+	},
+	{
+		"id": 8,
+		"title": "Bohemian Rhapsody",
+		"rate": 8,
+		"date_record": "2018-10-23",
+		"artist": "Matheus Mercury"
+	},
+		{
+		"id": 9,
+		"title": "Piece of My Heart",
+		"rate": 10,
+		"date_record": "2018-03-17",
+		"artist": "Mariana Joplin"
+	}]	
+}
+
